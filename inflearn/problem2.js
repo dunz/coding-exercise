@@ -1,5 +1,5 @@
 /**
- * [문제](https://www.notion.so/a5a0fafe306e4cb78ec4476a272d156d?v=e116f6cdc6e34075bf8e4c0e56429a26&p=f8e2a3458b72470a98e37826634e797b)
+ * [JAVA독과 함께](https://www.notion.so/a5a0fafe306e4cb78ec4476a272d156d?v=e116f6cdc6e34075bf8e4c0e56429a26&p=f8e2a3458b72470a98e37826634e797b)
  */
 
 // const 돌의내구도 = [1, 2, 1, 4];
